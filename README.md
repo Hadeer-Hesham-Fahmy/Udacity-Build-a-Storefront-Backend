@@ -1,1 +1,1 @@
-# https-github.com-Eyongkevin-Udacity-Build-a-Storefront-Backend
+# Udacity-Build-a-Storefront-Backend
